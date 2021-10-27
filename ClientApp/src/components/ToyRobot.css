@@ -1,0 +1,24 @@
+﻿
+.table-container {
+    background: #ccc;
+    margin-top: 100px auto;
+    padding: 10px;
+}
+
+
+.box {
+    border: 1px solid #808080;
+    height: 100px;
+}
+
+.box i {
+    font-size: 3rem;
+}
+
+.box .empty-cell {
+    height: 4.2rem;
+}
+
+.box span {
+    display: block;
+}
