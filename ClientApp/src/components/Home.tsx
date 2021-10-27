@@ -15,6 +15,7 @@ export class Home extends Component {
             <li>Node Version:  17.0.1 </li>
             <li>NPM Version:   8.1.0</li>
             <li>Swagger ToyRobot API: <a href="/swagger/index.html">/swagger/index.html</a></li>
+            <li>Git public Repos : <a href="https://github.com/jigs-patel/ToyRobot.git">https://github.com/jigs-patel/ToyRobot.git</a></li>
         </ul>
             <p>To help you get started:</p>
             <ul>
